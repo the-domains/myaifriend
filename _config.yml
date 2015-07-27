@@ -15,11 +15,16 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandColors:
+    - '#010101'
+    - '#ffffff'
+    - '#a84d49'
+    - '#75c164'
+    - '#04e58c'
+  brandStrength: 1
+  lightness: 0.3125
+  saturation: 0.75
+  rhythmicContrast: 1
 purpose:
   - name: awareness
     item: null
