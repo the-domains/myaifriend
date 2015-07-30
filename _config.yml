@@ -16,14 +16,14 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#010101'
-    - '#ffffff'
-    - '#a84d49'
-    - '#75c164'
-    - '#04e58c'
+    - '#000000'
+    - '#4d6893'
+    - '#f3ffff'
+    - '#98c9e9'
+    - '#a66b3f'
   brandStrength: 1
-  lightness: 0.3125
-  saturation: 0.75
+  lightness: 0.625
+  saturation: 0.25
   rhythmicContrast: 1
 purpose:
   - name: awareness
