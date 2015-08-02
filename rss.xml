@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/myaifriend/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 31 Jul 2015 13:56:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 02 Aug 2015 03:46:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/myaifriend/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Artificial Intelligence @ MIRI]]></title>
+            <description><![CDATA[<article><h1>Artificial Intelligence @ MIRI</h1><p>MIRI's artificial intelligence research is focused on developing the mathematical theory of trustworthy reasoning for advanced autonomous AI systems.</p><img src="https://intelligence.org/wp-content/uploads/2015/06/homepage-math-header-new-3.jpg"></article>]]></description>
+            <link>https://intelligence.org/?gclid=CMb2yPq9iccCFYUXHwodQ_MEmQ</link>
+            <guid isPermaLink="false">896372d4-452b-4231-be5d-98d298f1ac39</guid>
+            <pubDate>Sun, 02 Aug 2015 03:46:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Design machines]]></title>
             <description><![CDATA[<article><h1>Design machines</h1><p>Donald trawls Google Fonts for ten minutes. There are a few candidates, but Don's not so confident in his font evaluation skills. He lands on Open Sans. Good ol' faithful. He sets the actionable headline text to 48pt using the light weight in white.</p><img src="https://dwpz7qu8szxnd.cloudfront.net/articles/collage.jpg?mtime=20150627170425"></article>]]></description>
