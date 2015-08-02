@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/myaifriend/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 02 Aug 2015 03:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2015 04:01:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/myaifriend/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/2/19/1392819839936/Garry-Kasparov-ponders-a--009.jpg?w=620&q=85&auto=format&sharp=10&s=f7435f8cb9f2caf351b1e95b70b11827">]]></description>
+            <link>https://thegrid.ai/myaifriend/4a899a68-1001-469b-af5c-f6e371bda8f3/index.html</link>
+            <guid isPermaLink="false">4a899a68-1001-469b-af5c-f6e371bda8f3</guid>
+            <pubDate>Sun, 02 Aug 2015 04:01:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Artificial Intelligence @ MIRI]]></title>
             <description><![CDATA[<article><h1>Artificial Intelligence @ MIRI</h1><p>MIRI's artificial intelligence research is focused on developing the mathematical theory of trustworthy reasoning for advanced autonomous AI systems.</p><img src="https://intelligence.org/wp-content/uploads/2015/06/homepage-math-header-new-3.jpg"></article>]]></description>
