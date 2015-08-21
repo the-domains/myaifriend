@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/myaifriend/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 02 Aug 2015 04:01:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2015 20:43:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/myaifriend/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[harthur/brain]]></title>
+            <description><![CDATA[<article><h1>harthur/brain</h1><p>brain - Neural networks in JavaScript</p><img src="https://avatars1.githubusercontent.com/u/140420?v=3&s=400"></article>]]></description>
+            <link>https://github.com/harthur/brain</link>
+            <guid isPermaLink="false">3c793f7c-a415-48e9-bf76-f286e095a335</guid>
+            <pubDate>Fri, 21 Aug 2015 20:43:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/2/19/1392819839936/Garry-Kasparov-ponders-a--009.jpg?w=620&q=85&auto=format&sharp=10&s=f7435f8cb9f2caf351b1e95b70b11827">]]></description>
