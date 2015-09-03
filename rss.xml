@@ -5,15 +5,8 @@
         <description><![CDATA[myaifriend]]></description>
         <link>https://thegrid.ai/myaifriend/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 19:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 19:21:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/myaifriend/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b1ede13-70bd-42a5-8db9-7661ee39a876.png">]]></description>
-            <link>https://thegrid.ai/myaifriend/55d236ca-5b0c-472b-b6ee-5707601533c7/index.html</link>
-            <guid isPermaLink="false">55d236ca-5b0c-472b-b6ee-5707601533c7</guid>
-            <pubDate>Thu, 03 Sep 2015 16:56:36 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[harthur/brain]]></title>
             <description><![CDATA[<article><h1>harthur/brain</h1><p>brain - Neural networks in JavaScript</p><img src="https://avatars1.githubusercontent.com/u/140420?v=3&s=400"></article>]]></description>
