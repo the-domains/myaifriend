@@ -5,13 +5,14 @@
         <description><![CDATA[myaifriend]]></description>
         <link>https://thegrid.ai/myaifriend/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Sep 2015 23:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2015 20:08:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/myaifriend/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff052cdd-4165-4548-afa6-003dc97e332d.png">]]></description>
+            <title><![CDATA[Super image]]></title>
+            <description><![CDATA[<article><h1>Super image</h1><p>Bonjour, ceci est un post pour faire un test.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff052cdd-4165-4548-afa6-003dc97e332d.png"></article>]]></description>
+            <link>https://thegrid.ai/myaifriend/04dd58f4-acf6-4f8c-b385-f19558c9495a/index.html</link>
             <guid isPermaLink="false">04dd58f4-acf6-4f8c-b385-f19558c9495a</guid>
-            <pubDate>Fri, 11 Sep 2015 23:31:23 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2015 20:08:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Exclusive: Apple ups hiring, but faces obstacles to making phones smarter]]></title>
