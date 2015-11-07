@@ -4,7 +4,7 @@
         <description><![CDATA[myaifriend]]></description>
         <link>https://thegrid.ai/myaifriend/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 22:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2015 22:22:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/myaifriend/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Theoretical Motivations for Deep Learning]]></title>
@@ -19,6 +19,13 @@
             <link>https://howwegettonext.com/the-brain-in-the-machine-f61559a38887</link>
             <guid isPermaLink="false">6435e6bc-5692-4ba8-8939-3472a39fbda7</guid>
             <pubDate>Mon, 26 Oct 2015 10:23:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exclusive: Apple ups hiring, but faces obstacles to making phones smarter]]></title>
+            <description><![CDATA[<article><h1>Exclusive: Apple ups hiring, but faces obstacles to making phones smarter</h1><p>The goal is to challenge Google in an area the Internet search giant has long dominated: smartphone features that give users what they want before they ask. As part of its push, the company is currently trying to hire at least 86 more employees with expertise in the branch of artificial intelligence known as machine learning, according to a recent analysis of Apple job postings.</p><img src="http://s4.reutersmedia.net/resources/r/?m=02&d=20150907&t=2&i=1077551900&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB860JX"></article>]]></description>
+            <link>http://www.reuters.com/article/2015/09/07/us-apple-machinelearning-idUSKCN0R71H020150907</link>
+            <guid isPermaLink="false">127a7bdc-339a-44c4-bea6-fe9d3f9abd95</guid>
+            <pubDate>Tue, 08 Sep 2015 16:34:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[harthur/brain]]></title>
