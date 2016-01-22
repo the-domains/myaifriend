@@ -1,6 +1,6 @@
 name: myaifriend
 favicon: null
-layout_spectrum: 0.24232
+layout_spectrum: 0.48037
 typography_spectrum: 0.71429
 cta:
   domain: null
@@ -21,10 +21,10 @@ color:
     - '#f3ffff'
     - '#98c9e9'
     - '#a66b3f'
-  brandStrength: 1
-  lightness: 0.625
-  saturation: 0.25
-  rhythmicContrast: 1
+  brandStrength: 0
+  lightness: 0.375
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose:
   - name: awareness
     item: null
