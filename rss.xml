@@ -4,8 +4,15 @@
         <description><![CDATA[myaifriend]]></description>
         <link>https://thegrid.ai/myaifriend/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 09:29:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jan 2016 09:29:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/myaifriend/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[After Chess now Go]]></title>
+            <description><![CDATA[<article><h1>After Chess now Go</h1><p>Over the past year, Google and Facebook have been working on AI that can beat humans at the ancient Chinese board game Go, using deep neural networks that mimic the way our brains function. Yesterday, Facebook CEO Mark Zuckerberg wrote that researchers at his company were "getting close" to teaching computers to win at Go.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5314ac58aa12d10f6b06ec2d0cda2611bdd9a3b3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/myaifriend/after-chess-now-go/index.html</link>
+            <guid isPermaLink="false">c1103b03-39c9-4510-99f1-a6ede43442de</guid>
+            <pubDate>Thu, 28 Jan 2016 09:29:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The AI that writes articles for you is now available for testing]]></title>
             <description><![CDATA[<article><h1>The AI that writes articles for you is now available for testing</h1><p>Automated Insights has opened up beta access to Wordsmith, its platform for automating repetitive, time-consuming writing tasks using your data. Wordsmith reads data that you upload, such as a CSV file of a company's quarterly earnings, and follows a story structure that you define to generate readable content on-the-fly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77f9fcdedecba415964ffe54193d7758d52151ad.jpg"></article>]]></description>
