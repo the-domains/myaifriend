@@ -4,8 +4,15 @@
         <description><![CDATA[myaifriend]]></description>
         <link>https://thegrid.ai/myaifriend/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 09:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 13:58:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/myaifriend/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TensorFlow -- an Open Source Software Library for Machine Intelligence]]></title>
+            <description><![CDATA[<article><h1>TensorFlow -- an Open Source Software Library for Machine Intelligence</h1><p>TensorFlow™ is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API.</p></article>]]></description>
+            <link>https://www.tensorflow.org/</link>
+            <guid isPermaLink="false">cdb490da-004c-4302-afad-b7fe38ff8bd3</guid>
+            <pubDate>Sun, 14 Feb 2016 13:57:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[After Chess now Go]]></title>
             <description><![CDATA[<article><h1>After Chess now Go</h1><p>Over the past year, Google and Facebook have been working on AI that can beat humans at the ancient Chinese board game Go, using deep neural networks that mimic the way our brains function. Yesterday, Facebook CEO Mark Zuckerberg wrote that researchers at his company were "getting close" to teaching computers to win at Go.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5314ac58aa12d10f6b06ec2d0cda2611bdd9a3b3.jpg"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[The AI that writes articles for you is now available for testing]]></title>
-            <description><![CDATA[<article><h1>The AI that writes articles for you is now available for testing</h1><p>Automated Insights has opened up beta access to Wordsmith, its platform for automating repetitive, time-consuming writing tasks using your data. Wordsmith reads data that you upload, such as a CSV file of a company's quarterly earnings, and follows a story structure that you define to generate readable content on-the-fly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77f9fcdedecba415964ffe54193d7758d52151ad.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The AI that writes articles for you is now available for testing</h1><p>Automated Insights has opened up beta access to Wordsmith, its platform for automating repetitive, time-consuming writing tasks using your data. Wordsmith reads data that you upload, such as a CSV file of a company's quarterly earnings, and follows a story structure that you define to generate readable content on-the-fly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0981a33b8f2badbfcff517245d25a6ff3458692c.jpg"></article>]]></description>
             <link>http://thenextweb.com/apps/2015/10/20/the-ai-that-writes-articles-for-you-is-now-available-for-testing/</link>
             <guid isPermaLink="false">798c4301-fe67-4085-870a-0ece8bad72f8</guid>
             <pubDate>Thu, 28 Jan 2016 09:29:02 GMT</pubDate>
