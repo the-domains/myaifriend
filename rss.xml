@@ -4,11 +4,18 @@
         <description><![CDATA[myaifriend]]></description>
         <link>https://thegrid.ai/myaifriend/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 12:59:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 13:08:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/myaifriend/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The White House has significant concerns about artificial intelligence]]></title>
+            <description><![CDATA[<article><h1>The White House has significant concerns about artificial intelligence</h1><p>If your mind instantly went to Skynet, I can put your mind at ease; it's not Skynet. That's not, however, to say that this problem isn't just as scary, only without the cool special effects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/051ed610b954938b2a962af40dbdd4f6512078d7.jpg"></article>]]></description>
+            <link>http://thenextweb.com/insider/2016/05/06/white-house-significant-concerns-artificial-intelligence/</link>
+            <guid isPermaLink="false">faa80e5f-cd41-46b8-809d-2f2b157207b5</guid>
+            <pubDate>Fri, 06 May 2016 13:07:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Welcome - Theano 0.7 documentation]]></title>
-            <description><![CDATA[<article><h1>Welcome - Theano 0.7 documentation</h1><p>Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. Theano features: tight integration with NumPy - Use numpy.ndarray in Theano-compiled functions. transparent use of a GPU - Perform data-intensive calculations up to 140x faster than with CPU.(float32 only) efficient symbolic differentiation - Theano does your derivatives for function with one or many inputs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5db5aca0283404ae4001165e74117911e522c34c.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Welcome - Theano 0.7 documentation</h1><p>Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. Theano features: tight integration with NumPy - Use numpy.ndarray in Theano-compiled functions. transparent use of a GPU - Perform data-intensive calculations up to 140x faster than with CPU.(float32 only) efficient symbolic differentiation - Theano does your derivatives for function with one or many inputs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47e332564006b865a04a75ea9c713565e8f7807f.png"></article>]]></description>
             <link>http://deeplearning.net/software/theano/</link>
             <guid isPermaLink="false">81e2c673-1413-4a71-8157-12fb80eacbbf</guid>
             <pubDate>Mon, 22 Feb 2016 12:59:09 GMT</pubDate>
@@ -50,7 +57,7 @@
         </item>
         <item>
             <title><![CDATA[The Brain in the Machine - How We Get To Next]]></title>
-            <description><![CDATA[<article><h1>The Brain in the Machine - How We Get To Next</h1><p>The Brain in the Machine - How We Get To Next - Medium</p></article>]]></description>
+            <description><![CDATA[<p>The Brain in the Machine - How We Get To Next - Medium</p>]]></description>
             <link>https://howwegettonext.com/the-brain-in-the-machine-f61559a38887</link>
             <guid isPermaLink="false">6435e6bc-5692-4ba8-8939-3472a39fbda7</guid>
             <pubDate>Mon, 26 Oct 2015 10:23:55 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/myaifriend/4a899a68-1001-469b-af5c-f6e371bda8f3/index.html</link>
             <guid isPermaLink="false">4a899a68-1001-469b-af5c-f6e371bda8f3</guid>
             <pubDate>Sun, 02 Aug 2015 04:01:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artificial Intelligence @ MIRI]]></title>
-            <description><![CDATA[<article><h1>Artificial Intelligence @ MIRI</h1><p>MIRI's artificial intelligence research is focused on developing the mathematical theory of trustworthy reasoning for advanced autonomous AI systems.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b5d611b16409762b6adb4654826daf2ee83b62d.jpg"></article>]]></description>
-            <link>https://intelligence.org/?gclid=CMb2yPq9iccCFYUXHwodQ_MEmQ</link>
-            <guid isPermaLink="false">896372d4-452b-4231-be5d-98d298f1ac39</guid>
-            <pubDate>Sun, 02 Aug 2015 03:46:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
