@@ -22,10 +22,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://thenextweb.com/insider/2016/05/06/white-house-significant-concerns-artificial-intelligence/'
 title: The White House has significant concerns about artificial intelligence
-datePublished: '2016-05-06T13:07:57.581Z'
-dateModified: '2016-05-06T13:07:57.501Z'
-starred: false
+datePublished: '2016-05-06T22:45:00.771Z'
+dateModified: '2016-05-06T22:45:00.568Z'
 sourcePath: _posts/2016-05-06-the-white-house-has-significant-concerns-about-artificial-in.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
