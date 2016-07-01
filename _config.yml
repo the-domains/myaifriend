@@ -2,6 +2,7 @@ name: myaifriend
 favicon: null
 layout_spectrum: 0.48037
 typography_spectrum: 0.71429
+style: the-composer
 cta:
   domain: null
   bucket: null
